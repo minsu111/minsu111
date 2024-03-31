@@ -1,7 +1,6 @@
 ### 이수민(SUMIN LEE) 
 <div style="display: flex, height:180px">
-<!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minsu111&theme=light" alt="mystreak" style="height:180px"/>
-<img align="center" align="center" style="height:180px"  src="https://github-readme-stats.vercel.app/api/top-langs?username=minsu111&show_icons=true&locale=en&layout=compact" alt="Rizingblare" />  -->
+<img align="center" align="center" style="height:180px"  src="https://github-readme-stats.vercel.app/api/top-langs?username=minsu111&show_icons=true&locale=en&layout=compact" alt="minsu111" /> 
 </div>
 
 
